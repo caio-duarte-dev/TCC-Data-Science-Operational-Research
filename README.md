@@ -10,6 +10,7 @@ A metodologia envolve processamento de dados, limpeza, organização e alocaçã
 
 Estrutura do Repositório
 
+```
 TCC-Data-Science-Operational-Research/
 │
 ├── README.md
@@ -28,6 +29,7 @@ TCC-Data-Science-Operational-Research/
     ├── dados.xlsx
     ├── liberacao_tecnicos_clientes.xlsx
     └── tecnicos.xlsx
+```
 
 
 Descrição dos Códigos
